@@ -2,9 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://a-azizi79.github.io/categories/</loc>
+    <loc>https://a-azizi79.github.io/cv/</loc>
   </url><url>
     <loc>https://a-azizi79.github.io/</loc>
+  </url><url>
+    <loc>https://a-azizi79.github.io/android/</loc>
+  </url><url>
+    <loc>https://a-azizi79.github.io/categories/</loc>
+  </url><url>
+    <loc>https://a-azizi79.github.io/flutter/</loc>
+  </url><url>
+    <loc>https://a-azizi79.github.io/home/</loc>
   </url><url>
     <loc>https://a-azizi79.github.io/tags/</loc>
   </url>

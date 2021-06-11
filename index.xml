@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Ali Azizi blog.</title>
     <link>https://a-azizi79.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Ali Azizi blog.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://a-azizi79.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ali Azizi - CV</title>
+      <link>https://a-azizi79.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://a-azizi79.github.io/cv/</guid>
+      <description>Email aliazizi.79a@gmail.com - Telegram @KotlinByte
+ phone : +98 910 969 1347
+Education  98 - 400 BSc, Software engineering; University of Tehran markaz (Tehran) Experience   Recent Work Experience:
+At the first stage of my software development journey, I started with java language, and after getting fluent in it, I dived into the Android framework, and after a short time, I chose Kotlin for android development. In this journey, I worked on different applications such as shops, warehouse management app, etc, and learned new stuff like what a design pattern is, concurrency, clean code, software architecture, etc.</description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>https://a-azizi79.github.io/android/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://a-azizi79.github.io/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter</title>
+      <link>https://a-azizi79.github.io/flutter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://a-azizi79.github.io/flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://a-azizi79.github.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://a-azizi79.github.io/home/</guid>
+      <description>Hello welcome to my personal blog.</description>
+    </item>
+    
   </channel>
 </rss>
